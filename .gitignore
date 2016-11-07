@@ -20,8 +20,6 @@ DerivedData
 .project
 .settings
 node_modules/
-*.swp
-*.swo
-*.swn
-.sw*
+*.sw*
+*.un~
 logs/
